@@ -54,12 +54,12 @@ img {
 .bg-dark h1 {
   color: hsl(35, 77%, 62%);
 }
-.bg-dark h3 {
+.bg-dark h2 {
   font-size: 24px;
   margin-top: 32px;
   cursor: pointer;
 }
-.bg-dark h3:hover {
+.bg-dark h2:hover {
   color: hsl(35, 77%, 62%) !important;
 }
 .bg-dark p {
@@ -87,7 +87,8 @@ img {
 .card-title {
   color: hsl(233, 8%, 79%);
 }
-.card-body h5 {
+.card-body h3 {
+  font-size: 16px !important;
   font-weight: 800;
   color: hsl(240, 100%, 5%);
   cursor: pointer;
@@ -99,7 +100,7 @@ img {
 .nav-link {
   margin: 0 14px;
 }
-.card-body h5:hover,
+.card-body h3:hover,
 .nav-link:hover {
   color: hsl(5, 85%, 63%) !important;
 }
