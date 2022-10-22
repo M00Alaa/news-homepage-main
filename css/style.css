@@ -5,6 +5,7 @@
 body {
   font-family: "Inter", sans-serif;
   font-size: 15px;
+  padding: 64px;
 }
 
 h1 {
@@ -54,6 +55,7 @@ img {
   color: hsl(35, 77%, 62%);
 }
 .bg-dark h3 {
+  font-size: 24px;
   margin-top: 32px;
   cursor: pointer;
 }
